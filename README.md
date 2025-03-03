@@ -49,5 +49,5 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hashir-Khan777&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Code With Ammar"  />
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hashir-Khan777&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="Code With Ammar"/>
      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaffar Abbas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Khan777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
